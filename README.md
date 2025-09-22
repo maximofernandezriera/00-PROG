@@ -7,9 +7,7 @@
 
 ## 📋 Resumen
 
-Este documento sintetiza los elementos estratégicos para superar el módulo de "Programación" (0485) del ciclo formativo de Desarrollo de Aplicaciones Web (DAW Intensiva).
-
-**Punto clave**: La competencia CPRO-3 (Programación Orientada a Objetos) representa un **32% de la calificación final**, convirtiéndose en el eje central del curso.
+Este documento sintetiza los elementos estratégicos para superar el módulo de "Programación" del ciclo formativo de Desarrollo de Aplicaciones Web (DAW Intensiva).
 
 ---
 
@@ -44,7 +42,6 @@ Estas competencias se evalúan mediante observación directa del compromiso y pa
 
 1. **Umbral Mínimo por Competencia**
    - Calificación mínima de **5** en CADA competencia profesional
-   - Si cualquier CPRO está por debajo de 5 → **SUSPENSO AUTOMÁTICO**
 
 2. **Media Ponderada Final**
    - Media ponderada de todas las competencias ≥ 5
@@ -54,7 +51,6 @@ Estas competencias se evalúan mediante observación directa del compromiso y pa
 | **Tipo** | **Características** | **Función** |
 |:---|:---|:---|
 | **Exámenes** | • Individuales<br>• Tiempo limitado<br>• Sin internet | Medir dominio bajo presión |
-| **Tareas Evaluables** | • Trabajo en grupo permitido<br>• Acceso a internet<br>• Problemas complejos | Contribución directa a la nota |
 | **Tareas No Evaluables** | • Prácticas de clase<br>• Entrega no obligatoria<br>• Herramienta de entrenamiento | Preparación para exámenes |
 
 > ⚠️ **Consecuencias de ignorar las tareas no evaluables**:
