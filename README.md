@@ -50,7 +50,7 @@ Estas competencias se evalúan mediante observación directa del compromiso y pa
 
 | **Tipo** | **Características** | **Función** |
 |:---|:---|:---|
-| **Exámenes** | • Individuales<br>• Tiempo limitado<br>• Sin internet | Medir dominio bajo presión | Un examen cada mes |
+| **Exámenes** | • Individuales<br>• Tiempo limitado<br>• Sin internet | Medir dominio bajo presión | Un examen cada mes aproximadamente|
 | **Tareas No Evaluables** | • Prácticas de clase<br>• Entrega no obligatoria<br>• Herramienta de entrenamiento | Preparación para exámenes |
 
 > ⚠️ **Consecuencias de ignorar las tareas no evaluables**:
@@ -97,7 +97,7 @@ El curso se basa en el principio de **"aprender haciendo"**, exigiendo un rol ac
 - **Slack** - Comunicación
 - **GitHub Classroom** - Gestión de código
 
-### 3.2. Política de Recuperación
+### 3.2. Política de Recuperación Trimestral
 
 > 🚨 **ATENCIÓN**: Procedimiento inflexible con una sola oportunidad
 
