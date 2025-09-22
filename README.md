@@ -1,7 +1,7 @@
 # Guía para el Módulo de Programación
 
 > **Ciclo Formativo**: Desarrollo de Aplicaciones Web (DAW Intensiva)  
-> **Módulo**: Programación (0485)
+> **Módulo**: Programación
 
 ---
 
@@ -50,7 +50,7 @@ Estas competencias se evalúan mediante observación directa del compromiso y pa
 
 | **Tipo** | **Características** | **Función** |
 |:---|:---|:---|
-| **Exámenes** | • Individuales<br>• Tiempo limitado<br>• Sin internet | Medir dominio bajo presión |
+| **Exámenes** | • Individuales<br>• Tiempo limitado<br>• Sin internet | Medir dominio bajo presión | Un examen cada mes |
 | **Tareas No Evaluables** | • Prácticas de clase<br>• Entrega no obligatoria<br>• Herramienta de entrenamiento | Preparación para exámenes |
 
 > ⚠️ **Consecuencias de ignorar las tareas no evaluables**:
@@ -83,6 +83,8 @@ El curso se basa en el principio de **"aprender haciendo"**, exigiendo un rol ac
 ---
 
 ## 🛠️ 3. Recursos y Plan de Recuperación
+
+> 🚨 **Recuperación**: Siempre que el docente lo considere, se planteará un examen de recuperación que englobe las competencias implicadas en la evaluación.
 
 ### 3.1. Entorno de Trabajo
 
