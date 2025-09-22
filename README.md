@@ -1,4 +1,4 @@
-# Guía para el Módulo de Programación (0485)
+# Guía para el Módulo de Programación
 
 > **Ciclo Formativo**: Desarrollo de Aplicaciones Web (DAW Intensiva)  
 > **Módulo**: Programación (0485)
