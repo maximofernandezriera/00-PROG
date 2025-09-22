@@ -7,7 +7,7 @@
 
 ## 📋 Resumen
 
-Este documento sintetiza los elementos estratégicos para superar el módulo de "Programación" del ciclo formativo de Desarrollo de Aplicaciones Web (DAW Intensiva)que pueden encontrarse en la programación del módulo.
+Este documento sintetiza los elementos estratégicos para superar el módulo de "Programación" del ciclo formativo de Desarrollo de Aplicaciones Web (DAW Intensiva)que pueden encontrarse en la programación didáctica 2025-2026 del módulo.
 
 ---
 
