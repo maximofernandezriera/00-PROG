@@ -23,7 +23,7 @@ La calificación final es una **media ponderada** de cinco competencias profesio
 |:---|:---|:---:|
 | **CPRO-1** | Utilizar los conceptos básicos de programación y algoritmia | 16% |
 | **CPRO-2** | Crear software estructurado | 18% |
-| **CPRO-3** | Crear software haciendo uso del paradigma POO | **32%** |
+| **CPRO-3** | Crear software haciendo uso del paradigma POO | 32% |
 | **CPRO-4** | Manejar la lectura y escritura de archivos | 16% |
 | **CPRO-5** | Manejar bases de datos y persistencia | 16% |
 
